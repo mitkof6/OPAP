@@ -1,0 +1,29 @@
+Logo
+
+@author Jim Stanev
+@e-mail jimstanev@gmail.com
+
+++++++++++++++++++++
+Version 1.0 08/08/12
+
+++++++++++++++++++++
+Version 1.1 10/08/12
++ShowTableWindow -> width
++Percentage Bug
+
+++++++++++++++++++++
+Version 1.2 13/08/12
++Symmetry Bug
++ShowTableWindow -> x to X
++Load and Save action change
++Save Button Enable action
++Percentage Bug
++New Bug
++Set Icon Image
+
+++++++++++++++++++++
+Version 1.3 04/09/12
++Surprise 1,2
++Default Directory for InputFile chooser
++Marked Symbols ShowTable
++Status
